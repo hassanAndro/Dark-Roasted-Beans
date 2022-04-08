@@ -1,5 +1,3 @@
-CoffeeIT Assessment Task
-
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
 - Kotlin
