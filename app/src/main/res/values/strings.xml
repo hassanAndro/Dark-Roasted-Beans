@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoffeeIT</string>
+    <string name="database">CoffeeIT.db</string>
+    <string name="title">Brew with Lex</string>
+    <string name="style_title">Select your style</string>
+    <string name="size_title">Select your size</string>
+    <string name="extras_title">Select your extra\'s</string>
+    <string name="no_network">No internet connection!</string>
+    <string name="network_available">Network connection available!</string>
+</resources>
